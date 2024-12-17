@@ -16,8 +16,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "TuneHouse",
-  description: "Welcome to TuneHouse, an innovative edtech music academy project built using Next.js, Tailwind CSS, and the Aceternity UI library.",
+  title: "PitchMaster",
+  description: "Welcome to PitchMaster, an innovative edtech music academy project built using Next.js, Tailwind CSS, and the Aceternity UI library.",
 };
 
 export default function RootLayout({
